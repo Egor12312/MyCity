@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Мой город: Кемерово</string>
+
+    <string name="category_restaurants">Рестораны</string>
+    <string name="category_parks">Парки</string>
+    <string name="category_coffee">Кафе</string>
+
+    <string name="rest_1">Milton</string>
+    <string name="rest_1_desc">Современный ресторан с авторской кухней в центре Кемерово.</string>
+    <string name="rest_2">Гриль-бар 42</string>
+    <string name="rest_2_desc">Отличное место для любителей мяса и стейков на гриле.</string>
+    <string name="rest_3">Забой</string>
+    <string name="rest_3_desc">Ресторан сибирской кухни с колоритным интерьером.</string>
+
+    <string name="coffee_1">Гоё бууза</string>
+    <string name="coffee_1_desc">Бурятская кухня и самые вкусные буузы в городе.</string>
+    <string name="coffee_2">Севан</string>
+    <string name="coffee_2_desc">Уютное кафе с армянской кухней и домашней атмосферой.</string>
+    <string name="coffee_3">Терраса</string>
+    <string name="coffee_3_desc">Прекрасное кафе с видом на город и летней верандой.</string>
+
+    <string name="park_1">Парк Чудес</string>
+    <string name="park_1_desc">Главный городской парк с аттракционами и колесом обозрения.</string>
+    <string name="park_2">Комсомольский парк им. Веры Волошиной</string>
+    <string name="park_2_desc">Тихий и зеленый парк, идеально подходящий для прогулок.</string>
+    <string name="park_3">Парк Победы им. Жукова</string>
+    <string name="park_3_desc">Мемориальный парк с выставкой военной техники.</string>
+</resources>
